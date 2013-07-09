@@ -1,4 +1,4 @@
-var fs ÂÂ= require('fs');
+var fs = require('fs');
 var express = require('express');
 
 var infile = "index.html"
